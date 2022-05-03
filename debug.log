@@ -1,0 +1,7 @@
+[1014/105425.713:ERROR:settings.cc(430)] Settings version is not 5
+[1014/110425.743:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1015/210145.591:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1016/133926.459:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
+[1016/213523.064:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acceso denegado} Un proceso ha solicitado acceso a un objeto, pero no se le han concedido esos derechos de acceso. (0xc0000022)
+[1016/213523.079:ERROR:exception_snapshot_win.cc(100)] thread ID 11784 not found in process
+[1017/223042.493:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
